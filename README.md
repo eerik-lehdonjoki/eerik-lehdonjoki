@@ -1,4 +1,5 @@
-# Hi, I'm Eerik Lehdonjoki — Senior Software/Data Engineer
+# Hi, I'm Eerik Lehdonjoki 👋
+# Senior Software/Data Engineer
 
 I build data-intensive systems and ship cloud services at scale.  
 
