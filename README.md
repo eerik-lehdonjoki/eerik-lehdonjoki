@@ -1,6 +1,5 @@
 # Hi, I'm Eerik - Sr. Software / Data Engineer 
 
-
 I build data-intensive systems and ship cloud services at scale.  
 
 ## Languages & Tools
