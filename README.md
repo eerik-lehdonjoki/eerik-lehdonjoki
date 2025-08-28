@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Eerik Lehdonjoki — Senior Software/Data Engineer
 
-<!--
-**eerik-lehdonjoki/eerik-lehdonjoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build data-intensive systems and ship cloud services at scale.  
 
-Here are some ideas to get you started:
+## Languages & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Work by Language
+- **Python:** [repo-1](#) — ETL + tests + CLI
+
+## What I care about
+- simple designs, measurable performance
+
+🌐 [LinkedIn](https://www.linkedin.com/in/eeriklehtomaki/)
