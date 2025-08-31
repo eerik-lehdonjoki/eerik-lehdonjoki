@@ -1,6 +1,6 @@
 # Hi, I'm Eerik - Sr. Software / Data Engineer 
 
-I build data-intensive systems and ship cloud services at scale.  
+I build data-intensive systems and cloud services at scale.  
 
 ## Languages & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
